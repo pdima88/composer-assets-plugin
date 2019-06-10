@@ -11,7 +11,7 @@ Composer plugin for installing assets.
 Use [Composer](http://getcomposer.org/):
 
 ```
-composer require frontpack/composer-assets-plugin
+composer require pdima88/composer-assets-plugin
 ```
 
 Library requires PHP 5.4.0 or later.

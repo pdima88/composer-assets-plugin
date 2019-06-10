@@ -1,5 +1,5 @@
 {
-	"name": "frontpack/composer-assets-plugin",
+	"name": "pdima88/composer-assets-plugin",
 	"type": "composer-plugin",
 	"description": "Composer plugin for installing of assets.",
 	"license": "BSD-3-Clause",
